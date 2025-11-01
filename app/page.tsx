@@ -1,4 +1,3 @@
-import Image from "next/image";
 import ImageTrail from "../components/ImageTrail";
 
 const imageUrls = [
